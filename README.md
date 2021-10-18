@@ -6,9 +6,9 @@ Vegang is a landing page that promotes healthy vegan lifestyle. The website has 
 
 The goal of this project was mastering HTML and CSS, extending knowledge of BEM Architecture in practise and learning to create smooth user-experience using RWD.
 
-[x] Master HTML and CSS
-[x] Learn how to design style architecture using BEM and SASS
-[x] Create frontend application using RWD with Mobile First Approach
+[x] - Master HTML and CSS
+[x] - Learn how to design style architecture using BEM and SASS
+[x] - Create frontend application using RWD with Mobile First Approach
 
 ## Tech
 
