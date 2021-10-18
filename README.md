@@ -2,7 +2,7 @@
 
 Vegang is a landing page that promotes a healthy vegan lifestyle. The website has been written using best development practises such as **RWD**, **Mobile First Approach**, **SASS**, **BEM Methodology**.
 
-<p align="center">**[Sneak Peak 👀](#Preview)**</p>
+<strong align="center"><a href="#Preview">Sneak Peak 👀</a></strong>
 
 ## Project goals
 
