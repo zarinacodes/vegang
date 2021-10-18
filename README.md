@@ -2,6 +2,8 @@
 
 Vegang is a landing page that promotes a healthy vegan lifestyle. The website has been written using best development practises such as **RWD**, **Mobile First Approach**, **SASS**, **BEM Methodology**.
 
+<img src="https://github.com/zarinacodes/vegang/blob/readme/.github/desktop-screenshot.png" align="center" width="960px"/>
+
 ## Project goals
 
 The goal of this project was mastering HTML and CSS, extending knowledge of BEM Architecture in practise and learning to create smooth user-experience using RWD.
