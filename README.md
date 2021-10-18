@@ -35,4 +35,4 @@ npm start
 
 ## Preview
 
-<img src="https://github.com/zarinacodes/vegang/blob/readme/.github/desktop-screenshot.png" align="center" width="960px"/>
+<img src="https://github.com/zarinacodes/vegang/blob/main/.github/desktop-screenshot.png" align="center" width="960px"/>
