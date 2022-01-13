@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "snowpack dev",
+    "start": "node index.js",
+    "start:dev": "snowpack dev",
     "build": "snowpack build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +15,8 @@
   "devDependencies": {
     "@snowpack/plugin-sass": "^1.4.0",
     "snowpack": "^3.6.1"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
   }
 }
