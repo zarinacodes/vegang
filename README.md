@@ -3,6 +3,7 @@
 Vegang is a landing page that promotes a healthy vegan lifestyle. The website has been written using best development practises such as **RWD**, **Mobile First Approach**, **SASS**, **BEM Methodology**.
 
 <p align="center"><strong><a href="#Preview">Sneak Peak 👀</a></strong></p>
+<p align="center"><strong><a href="https://vegang-app.herokuapp.com/">Check out the app ✨</a></strong></p>
 
 ## Project goals
 
@@ -21,6 +22,7 @@ Project was created with:
 - CSS
 - Snowpack
 - Node.js
+- Express.js
 
 ## Installation
 
